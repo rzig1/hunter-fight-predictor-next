@@ -5,7 +5,7 @@ A web application that simulates battles between Hunters using rule-based combat
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38bdf8)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## 🎯 Overview
 
